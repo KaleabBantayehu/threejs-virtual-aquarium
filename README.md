@@ -3,7 +3,7 @@
 An interactive 3D virtual aquarium built using Three.js, developed as a web-based simulation to demonstrate core computer graphics concepts such as 3D modeling, materials, lighting, animation, and user interaction.
 
 Live Demo:  
-https://kaleab88.github.io/threejs-virtual-aquarium/
+https://kaleabBantayehu.github.io/threejs-virtual-aquarium/
 
 ---
 
